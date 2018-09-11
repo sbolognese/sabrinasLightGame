@@ -50,3 +50,5 @@ HOW TO WIN:
     - If a player fails to match the color when there is only one life, the game
       flashes red, then alternating brightness of reds, then plays the startup
       sequence and the game begins again.  
+
+A Demonstration of the game : https://youtu.be/7O-mwO_qo4k
